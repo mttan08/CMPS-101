@@ -1,0 +1,12 @@
+// Matthew Tan
+// mxtan
+// pa2
+// README file for pa2: C version of doubly linked list
+
+contains:
+1) List.c -- a doubly linked list
+2) Lex.c -- prints and alphabetized list of strings
+3) ListClient -- test for List.c
+4) List.h -- header file for List.c
+5) Makefile -- makefile for pa2
+6) README -- describes each file's purpose
