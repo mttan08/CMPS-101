@@ -1,0 +1,27 @@
+// Matthew Tan
+// mxtan
+// pa3
+// README for pa3
+
+This project contains:
+
+Matrix.java - a representation of a matrix with
+the following operations: add(), sub(), mult(),
+scalarMult(), copy(), transpose(),
+changeEntry(), equals(), and toString(). These
+operations are meant to demonstrate how to 
+do them by hand, instead we are using a computer.
+
+MatrixTest.java - a test client for Matrix.java
+
+List.java - a list of objects, modified from pa1
+
+Sparse.java - a representation of a sparse matrix
+and further tests Matrix.java
+
+ListTest.java - a test client for List.java
+
+Makefile - makefile for pa3
+
+README - README for pa3: contains all the
+descriptions of the files and what they do.
