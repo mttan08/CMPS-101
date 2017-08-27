@@ -1,0 +1,19 @@
+// Matthew Tan
+// mxtan
+// pa4: README
+// README for pa4. Contains the files
+// and the descriptions for them
+
+1) List.c - same List.c from pa2. Implements a FIFO 
+   queue data structure
+2) List.h - header file for List.c
+3) Graph.c - Graph ADT that can be used to impelement
+   any kind of graph
+4) Graph.h - header file for Graph ADT
+5) GraphTest.c - test client for Graph ADT
+6) FindPath.c - Uses BFS to find shortest path from a given
+   source and destination or return infinity if there
+   is none.
+7) Makefile - Makefile for pa4
+8) README - Contains all the files along with the descriptions
+   of the files
