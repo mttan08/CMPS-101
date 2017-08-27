@@ -1,0 +1,18 @@
+// Matthew Tan
+// mxtan
+// pa5
+// README for pa5
+
+This project contains the following files:
+
+1) README -- description of all the files and what they do
+2) Makefile -- Makefile for pa5
+3) List.c -- A doubly linked list used since pa2
+4) List.h -- Header file for List.c
+5) Graph.h -- Header file for Graph.c
+6) Graph.c -- Graph ADT reused from pa4. Note: Some functions were added
+   to fit this project description
+7) GraphTest.c -- test client for Graph ADT
+8) FindComponents.c -- finds all strongly connected components of a
+   given graph. Note: I used some of pa4's FindPath.c and modified
+   it to fit this project description
