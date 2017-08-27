@@ -1,0 +1,11 @@
+// Matthew Tan
+// mxtan
+// pa1: README
+// This is a README for pa1
+
+project contains: 
+1) List.java -- a doubly linked List ADT
+2) ListClient.java -- Client for List ADT (note: this is unmodified
+3) Lex.java
+4) README -- README: a description of the files for this program
+5) Makefile -- makefile for pa1
